@@ -7,3 +7,6 @@ execute pathogen#infect()
 "Basic Settings
 syntax on 	"Syntax Highlighting
 filetype plugin indent on	"Formatting Options
+
+"Color Scheme
+colorscheme molokai
