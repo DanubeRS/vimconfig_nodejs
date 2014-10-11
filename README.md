@@ -6,3 +6,5 @@ There are many plugins that this configuration will revolve into a nice concise 
 *[Pathogen](https://github.com/tpope/vim-pathogen)
 ### Color Schemes
 *[Molokai](https://github.com/tomasr/molokai)
+### General
+*[Node.vim](https://github.com/moll/vim-node)
